@@ -32,8 +32,18 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
  
 <div/>
+ <div align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKumarGaurav&layout=compact)](https://github.com/AkshayKumarGaurav/github-readme-stats)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshayKumarGaurav&theme=highcontrast&ring=38EBDA)](https://git.io/streak-stats)![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayKumarGaurav&show_icons=true&theme=radical)
+
+ 
+ 
+<div/>
 
 
+ 
 
  
 Connect with me :
