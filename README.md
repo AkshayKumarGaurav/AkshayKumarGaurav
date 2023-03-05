@@ -39,7 +39,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshayKumarGaurav&theme=highcontrast&ring=38EBDA)](https://git.io/streak-stats)![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayKumarGaurav&show_icons=true&theme=radical)
  
  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omi9jan.omi9jan)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AkshayKumarGaurav.AkshayKumarGaurav)
 
 
 Connect with me :
