@@ -37,13 +37,11 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKumarGaurav&layout=compact)](https://github.com/AkshayKumarGaurav/github-readme-stats)
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkshayKumarGaurav&theme=highcontrast&ring=38EBDA)](https://git.io/streak-stats)![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayKumarGaurav&show_icons=true&theme=radical)
-
-
-
-
  
-
  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omi9jan.omi9jan)
+
+
 Connect with me :
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://www.linkedin.com/in/akshay-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshaykumargaurav@gmail.com)](mailto:akshaykumargaurav@gmail.com)
