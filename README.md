@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1609863995034/X1npNgq5d.gif)](https://varun-98-masai.github.io)
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1609863995034/X1npNgq5d.gif)](https://akshaykumargaurav.github.io)
 <h1 align="center">Hi👋 I'm Akshay Kumar Gaurav</h1>
  
 An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-end and back-end Web Development. Knowledge of HTML, CSS, Python, javaScript, and react. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Websites while facilitating organization in achieving functional goals.
