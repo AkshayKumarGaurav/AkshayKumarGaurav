@@ -7,7 +7,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
  <p>🌱 I’m currently learning MERN Stack Development</p>
  <p>💬 Ask me about HTML, CSS, React, JavaScript, Redux , DS-Algo</p>
  <p>👨‍💻 All of my projects deployed on: <a href="https://akshaykumargaurav.github.io/">https://akshaykumargaurav.github.io/</a></p>
-<!--  <p>📫 How to reach me: <a href="akshaykumargaurav@gmail.com">akshaykumargaurav@gmail.com</a></p> -->
+ <p>📫 How to reach me: <a href="akshaykumargaurav@gmail.com">akshaykumargaurav@gmail.com</a></p> 
  <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1ekChql2uokFwbp5jUYriDAvMOYX1Orm-/view?usp=share_link">Resume</a></p>
 </div>
 
