@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1609863995034/X1npNgq5d.gif)](https://varun-98-masai.github.io)
 <h1 align="center">Hi👋 I'm Akshay Kumar Gaurav</h1>
  
 An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-end and back-end Web Development. Knowledge of HTML, CSS, Python, javaScript, and react. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Websites while facilitating organization in achieving functional goals.
@@ -44,6 +45,13 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
  
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshaykumargaurav.akshaykumargaurav)
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-98-masai&show_icons=true&locale=en&layout=compact" alt="varun-98-masai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-98-masai&show_icons=true&locale=en" alt="varun-98-masai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-98-masai&" alt="varun-98-masai" /></p>
+
   
 
 
