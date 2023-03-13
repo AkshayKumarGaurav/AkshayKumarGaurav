@@ -38,10 +38,10 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykumargaurav&show_icons=true&locale=en&layout=compact" alt="akshaykumargaurav" /></p>
   
   
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=akshaykumargaurav&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshaykumargaurav&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
  
  
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
  
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshaykumargaurav.akshaykumargaurav)
@@ -50,4 +50,8 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 Connect with me :
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://www.linkedin.com/in/akshay-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshaykumargaurav@gmail.com)](mailto:akshaykumargaurav@gmail.com)
+ 
+ 
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
 
