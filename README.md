@@ -35,8 +35,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 <div/>
  
  
-  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumargaurav&layout=compact)](https://github.com/akshaykumargaurav/github-readme-stats" alt="akshaykumargaurav </p>
-  
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykumargaurav&show_icons=true&locale=en&layout=compact" alt="akshaykumargaurav" /></p>
   
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshaykumargaurav&theme=highcontrast&ring=38EBDA)](https://git.io/streak-stats)
@@ -46,11 +45,11 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshaykumargaurav.akshaykumargaurav)
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-98-masai&show_icons=true&locale=en&layout=compact" alt="varun-98-masai" /></p>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-98-masai&show_icons=true&locale=en" alt="varun-98-masai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&locale=en" alt="akshaykumargaurav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-98-masai&" alt="varun-98-masai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumargaurav&" alt="akshaykumargaurav" /></p>
 
   
 
