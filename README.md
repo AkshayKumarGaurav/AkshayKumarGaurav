@@ -49,7 +49,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 
 Connect with me :
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://www.linkedin.com/in/akshay-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshaykumargaurav@gmail.com)](mailto:akshaykumargaurav@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-kumar-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)](https://www.linkedin.com/in/akshay-kumar-gaurav-6137a0236?original_referer=https%3A%2F%2Fwww.google.com%2F)  [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshaykumargaurav@gmail.com)](mailto:akshaykumargaurav@gmail.com)
  
  
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
