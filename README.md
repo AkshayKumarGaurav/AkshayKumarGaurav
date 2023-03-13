@@ -35,7 +35,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 <div/>
  
  
-  <p> (https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumargaurav&layout=compact)](https://github.com/akshaykumargaurav/github-readme-stats) </p>
+  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumargaurav&layout=compact)](https://github.com/akshaykumargaurav/github-readme-stats" alt="akshaykumargaurav </p>
   
   
   
