@@ -50,7 +50,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshaykumargaurav&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
  
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&theme=radical" alt="akshaykumargaurav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
 
 
  
