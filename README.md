@@ -33,7 +33,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
  
 <div/>
  
- <div align="center">
+ 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumargaurav&layout=compact)](https://github.com/akshaykumargaurav/github-readme-stats) 
   
   
@@ -45,7 +45,7 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshaykumargaurav.akshaykumargaurav)
   
-<div/>
+
 
 Connect with me :
  
