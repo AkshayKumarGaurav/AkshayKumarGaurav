@@ -45,11 +45,14 @@ An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-e
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshaykumargaurav.akshaykumargaurav)
  
+
  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshaykumargaurav&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
+ 
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&theme=radical" alt="akshaykumargaurav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshaykumargaurav&show_icons=true&theme=radical" alt="akshaykumargaurav" /></p>
  
 <!--  https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&locale=en -->
 
