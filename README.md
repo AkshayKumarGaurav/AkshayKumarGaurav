@@ -45,7 +45,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
  
 <div/>
- 
+ <br/>
+ <br/>
  <h2 align="center">📊 My Github Stats</h2>
    <br/>   
  
