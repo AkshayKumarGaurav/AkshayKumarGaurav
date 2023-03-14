@@ -6,6 +6,9 @@
 </p>
  
 ## An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-end and back-end Web Development. Knowledge of HTML, CSS, Python, javaScript, and react. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Websites while facilitating organization in achieving functional goals.
+
+ <h2 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> To Know More About Me :- <a href="https://harshal-kitukale.github.io/"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
+ </h2>
   
 
 <div align="center">
