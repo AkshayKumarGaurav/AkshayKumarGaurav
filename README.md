@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+web+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer from India." />
 </p>
  
-# An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-end and back-end Web Development. Knowledge of HTML, CSS, Python, javaScript, and react. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Websites while facilitating organization in achieving functional goals.
+## An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-end and back-end Web Development. Knowledge of HTML, CSS, Python, javaScript, and react. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Websites while facilitating organization in achieving functional goals.
   
 
 <div align="center">
