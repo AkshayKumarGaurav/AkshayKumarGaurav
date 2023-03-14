@@ -45,12 +45,12 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /> 
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/-VScode-336791?style=flat-square&logo=VScode" alt="VScode" />
-    <img src="https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify" alt="Netlify" />
+    <img src="https://img.shields.io/badge/-VScode-336791?style=for-the-badge&logo=VScode" alt="VScode" />
+    <img src="https://img.shields.io/badge/-Netlify-430098?style=for-the-badge&logo=Netlify" alt="Netlify" />
    </p>
 </div>
  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -67,7 +67,7 @@
 ![VScode](https://img.shields.io/badge/-VScode-336791?style=flat-square&logo=VScode)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
- 
+  -->
 <div/>
  <br/>
  <h2 align="center">📊 My Github Stats</h2>
