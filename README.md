@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1609863995034/X1npNgq5d.gif)](https://akshaykumargaurav.github.io)
-<h1 align="center">Hi👋 I'm Akshay Kumar Gaurav</h1>
-<h1><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Kumkum🌻</h1>
+<!-- <h1 align="center">Hi👋 I'm Akshay Kumar Gaurav</h1> -->
+<h1 align='center'><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Akshay Kumar Gaurav🌻</h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+web+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer from India." />
