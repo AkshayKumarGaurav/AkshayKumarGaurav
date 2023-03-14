@@ -8,6 +8,7 @@
 ## An enthusiastic Full Stack Web Developer, a lifelong learner, skilled in front-end and back-end Web Development. Knowledge of HTML, CSS, Python, javaScript, and react. High adaptability to learn new technologies quickly and paying attention to details. Aims to leverage knowledge and build world-class Websites while facilitating organization in achieving functional goals.
 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+ 
  <img class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="250" width="300px" align="right" >
   
 
@@ -19,7 +20,11 @@
  <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1ekChql2uokFwbp5jUYriDAvMOYX1Orm-/view?usp=share_link">Resume</a></p>
 </div>
 
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 <div align="center">
+    
+  <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
+   <br/>
  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
