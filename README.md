@@ -46,6 +46,8 @@
  
 <div/>
  
+ <h2 align="center">📊 My Github Stats</h2>
+   <br/>   
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykumargaurav&show_icons=true&locale=en&layout=compact" alt="akshaykumargaurav" /></p>
   
