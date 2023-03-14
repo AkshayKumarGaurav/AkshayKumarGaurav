@@ -75,12 +75,12 @@
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykumargaurav&show_icons=true&locale=en&layout=compact" alt="akshaykumargaurav" /></p>
   
-  
+  <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshaykumargaurav&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
- 
+ <br/>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumargaurav&show_icons=true&&theme=highcontrast&ring=38EBDA" alt="akshaykumargaurav" /></p>
- 
+ <br/>
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akshaykumargaurav.akshaykumargaurav)
 
