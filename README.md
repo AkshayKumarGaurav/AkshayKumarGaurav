@@ -28,7 +28,7 @@
     <h2 align="center">🧑🏻‍💻 Tech-Stack and Tools</h2>
    <br/>
    <p>
-    <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=Angular" alt="Angular" />
+    <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular" alt="Angular" />
     <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python" />
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript" />
