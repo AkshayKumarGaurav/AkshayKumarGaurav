@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular" alt="Angular" />
     <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" alt="Python" />
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-TypeScript-20232A?style=for-the-badge&logo=typescript" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-Cypress-311C87?style=for-the-badge&logo=apollo-cypress" alt="Cypress" />
     <img src="https://img.shields.io/badge/-NextJS-E10098?style=for-the-badge&logo=nextJS" alt="NextJS" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
